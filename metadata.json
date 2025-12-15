@@ -1,0 +1,5 @@
+{
+  "name": "autonumous water surface cleaning robot",
+  "description": "A 3D simulation and visualization of a DIY autonomous water cleaning robot, featuring paddle-wheel propulsion and trash collection mechanics, powered by Gemini for engineering analysis.",
+  "requestFramePermissions": []
+}
